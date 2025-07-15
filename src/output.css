@@ -161,6 +161,15 @@
   .table {
     display: table;
   }
+  .h-\[100v\] {
+    height: 100v;
+  }
+  .h-\[100vh\] {
+    height: 100vh;
+  }
+  .w-auto {
+    width: auto;
+  }
   .border-collapse {
     border-collapse: collapse;
   }
